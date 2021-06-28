@@ -1,0 +1,87 @@
+
+body{
+    background-image: url(4k-wallpaper-calm-waters-dark-1252869.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+  
+
+}
+
+.login{
+    text-align: center;
+    width: 320px;
+    height: 420px;
+    border: 2px solid #888888;
+    border-radius: 8px 8px 8px 8px;
+    color: #ffffff;
+    background-color: rgba(0, 0, 5, 0.8);
+    top: 00%;
+    left: 27%;
+    position: absolute;
+    transform: translate(50%, 50%);
+    box-sizing: border-box;
+    padding: 68px 28px;
+}
+
+ h1{
+     margin: 0;
+     padding-top: 0;
+     padding-left: 0;
+     padding-bottom: 20px;
+     letter-spacing: 5px;
+     text-transform: uppercase;
+     text-align: center;
+     font-size: 25px;
+     
+ }
+
+ .login input[type="Nome"], input[type="Senha"]{
+     border: none;
+     outline: none;
+     padding: 5px;
+     border-bottom: 1px solid white;
+     background: transparent;
+     outline: none;
+     height: 15px;
+     color: white;
+     font-size: 15px;
+ 
+ }
+
+ .login input[type="submit"]{
+       width: 100%;
+       border: none;
+       outline: none;
+       cursor: pointer;
+       padding: 10px;
+       border-radius: 15px;
+       color: black;
+       background-color: white;
+     
+ }
+
+ .login input[type="submit"]:hover{
+     background-color: #3126AA;
+ }
+
+ .login a{
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: white;
+ }
+
+ 
+     
+ 
+    
+  
+    
+    
+
+
+
+
